@@ -1,0 +1,2 @@
+This project is a web-based AI chatbot designed to enhance digital financial literacy by providing instant, accurate, and interactive responses to user queries. Built using Python and Flask, and powered by the Replicate API for AI model processing, the chatbot covers topics such as UPI, Google Pay, online fraud prevention, budgeting tips, and other essential aspects of digital finance. The system is developed and tested in Google Colab, featuring a simple, user-friendly web interface that ensures accessibility for all users, regardless of their technical background.
+
